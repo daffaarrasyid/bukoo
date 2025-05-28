@@ -1,0 +1,14 @@
+{
+  "1": {
+    "nama": "Staff 1",
+    "username": "staff1",
+    "kata_sandi": "staff123",
+    "kategori": "staff"
+  },
+  "2": {
+    "nama": "Staff 2",
+    "username": "staff2",
+    "kata_sandi": "staff456",
+    "kategori": "staff"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "1": {
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "tahun": "2005",
+    "stok": 5
+  },
+  "2": {
+    "judul": "Dilan: Dia adalah Dilanku Tahun 1990",
+    "penulis": "Pidi Baiq",
+    "tahun": "2014",
+    "stok": 6
+  },
+  "3": {
+    "judul": "Harry Potter and the Deathly Hallows",
+    "penulis": "J.K. Rowling",
+    "tahun": "2007",
+    "stok": 2
+  },
+  "4": {
+    "judul": "The Midnight Library",
+    "penulis": "Matt Haig",
+    "tahun": "2020",
+    "stok": 4
+  },
+  "5": {
+    "judul": "Educated",
+    "penulis": "Tara Westover",
+    "tahun": "2018",
+    "stok": 3
+  },
+  "6": {
+    "judul": "Rich Dad Poor Dad",
+    "penulis": "Robert T. Kiyosaki",
+    "tahun": "2000",
+    "stok": 5
+  },
+  "7": {
+    "judul": "Sapiens: A Brief History of Humankind",
+    "penulis": "Yuval Noah Harari",
+    "tahun": "2011",
+    "stok": 10
+  },
+  "8": {
+    "judul": "Atomic Habits",
+    "penulis": "James Clear",
+    "tahun": "2018",
+    "stok": 12
+  },
+  "9": {
+    "judul": "The Da Vinci Code",
+    "penulis": "Dan Brown",
+    "tahun": "2003",
+    "stok": 0
+  },
+  "10": {
+    "judul": "Filosofi Teras",
+    "penulis": "Henry Manampiring",
+    "tahun": "2018",
+    "stok": 8
+  },
+  "11": {
+    "judul": "Cantik Itu Luka",
+    "penulis": "Eka Kurniawan",
+    "tahun": "2002",
+    "stok": 4
+  },
+  "12": {
+    "judul": "The Subtle Art of Not Giving a F*ck",
+    "penulis": "Mark Manson",
+    "tahun": "2016",
+    "stok": 7
+  },
+  "13": {
+    "judul": "Tujuh Kelana",
+    "penulis": "Fiersa Besari",
+    "tahun": "2020",
+    "stok": 6
+  },
+  "14": {
+    "judul": "Mariposa",
+    "penulis": "Luluk HF",
+    "tahun": "2018",
+    "stok": 4
+  },
+  "15": {
+    "judul": "The Psychology of Money",
+    "penulis": "Morgan Housel",
+    "tahun": "2020",
+    "stok": 3
+  },
+  "16": {
+    "judul": "Perahu Kertas",
+    "penulis": "Dee Lestari",
+    "tahun": "2009",
+    "stok": 7
+  },
+  "17": {
+    "judul": "Negeri 5 Menara",
+    "penulis": "Ahmad Fuadi",
+    "tahun": "2009",
+    "stok": 0
+  },
+  "18": {
+    "judul": "Laut Bercerita",
+    "penulis": "Leila S. Chudori",
+    "tahun": "2017",
+    "stok": 6
+  },
+  "19": {
+    "judul": "Gadis Kretek",
+    "penulis": "Ratih Kumala",
+    "tahun": "2012",
+    "stok": 2
+  },
+  "20": {
+    "judul": "Hujan",
+    "penulis": "Tere Liye",
+    "tahun": "2016",
+    "stok": 6
+  },
+  "21": {
+    "judul": "Bumi",
+    "penulis": "Tere Liye",
+    "tahun": "2014",
+    "stok": 5
+  },
+  "22": {
+    "judul": "Bulan",
+    "penulis": "Tere Liye",
+    "tahun": "2015",
+    "stok": 5
+  },
+  "23": {
+    "judul": "Matahari",
+    "penulis": "Tere Liye",
+    "tahun": "2016",
+    "stok": 5
+  },
+  "24": {
+    "judul": "Bintang",
+    "penulis": "Tere Liye",
+    "tahun": "2017",
+    "stok": 5
+  },
+  "25": {
+    "judul": "Ceros dan Batozar",
+    "penulis": "Tere Liye",
+    "tahun": "2018",
+    "stok": 4
+  },
+  "26": {
+    "judul": "Komet Minor",
+    "penulis": "Tere Liye",
+    "tahun": "2019",
+    "stok": 4
+  },
+  "27": {
+    "judul": "Selena",
+    "penulis": "Tere Liye",
+    "tahun": "2020",
+    "stok": 3
+  },
+  "28": {
+    "judul": "Nebula",
+    "penulis": "Tere Liye",
+    "tahun": "2020",
+    "stok": 3
+  },
+  "29": {
+    "judul": "Si Putih",
+    "penulis": "Tere Liye",
+    "tahun": "2021",
+    "stok": 3
+  },
+  "30": {
+    "judul": "Lumpu",
+    "penulis": "Tere Liye",
+    "tahun": "2021",
+    "stok": 3
+  },
+  "31": {
+    "judul": "Bibi Gill",
+    "penulis": "Tere Liye",
+    "tahun": "2022",
+    "stok": 2
+  },
+  "32": {
+    "judul": "Sagaras",
+    "penulis": "Tere Liye",
+    "tahun": "2022",
+    "stok": 2
+  },
+  "33": {
+    "judul": "Matahari Minor",
+    "penulis": "Tere Liye",
+    "tahun": "2022",
+    "stok": 2
+  },
+  "34": {
+    "judul": "ILY",
+    "penulis": "Tere Liye",
+    "tahun": "2023",
+    "stok": 2
+  },
+  "35": {
+    "judul": "Bintang Jatuh",
+    "penulis": "Tere Liye",
+    "tahun": "2024",
+    "stok": 2
+  },
+  "36": {
+    "judul": "a",
+    "penulis": "b",
+    "tahun": "2021",
+    "stok": 1
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id_buku": "2",
+    "id_anggota": "1",
+    "tanggal_pinjam": "2025-05-01",
+    "tanggal_kembali_deadline": "2025-05-06",
+    "tanggal_kembali_aktual": "2025-05-05",
+    "denda_dibayar": 0
+  },
+  {
+    "id_buku": "6",
+    "id_anggota": "2",
+    "tanggal_pinjam": "2025-05-10",
+    "tanggal_kembali_deadline": "2025-05-15",
+    "tanggal_kembali_aktual": "2025-05-17",
+    "denda_dibayar": 10000
+  },
+  {
+    "id_buku": "1",
+    "id_anggota": "2",
+    "tanggal_pinjam": "2025-05-25",
+    "tanggal_kembali_deadline": "2025-05-30",
+    "tanggal_kembali_aktual": null,
+    "denda_dibayar": 0
+  },
+  {
+    "id_buku": "5",
+    "id_anggota": "2",
+    "tanggal_pinjam": "2025-05-26",
+    "tanggal_kembali_deadline": "2025-06-02",
+    "tanggal_kembali_aktual": null,
+    "denda_dibayar": 0
+  },
+  {
+    "id_buku": "9",
+    "id_anggota": "3",
+    "tanggal_pinjam": "2025-05-15",
+    "tanggal_kembali_deadline": "2025-05-20",
+    "tanggal_kembali_aktual": null,
+    "denda_dibayar": 0
+  }
+]

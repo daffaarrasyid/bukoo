@@ -1,0 +1,2 @@
+rich         # Library untuk membuat TUI (Text User Interface) yang kaya dan indah di terminal
+pyfiglet     # Library untuk membuat teks ASCII art (digunakan untuk header Bukoo)

@@ -1,0 +1,20 @@
+{
+  "1": {
+    "nama": "Muhammad Daffa Ar-Rasyid",
+    "username": "daffa123",
+    "kata_sandi": "12345678",
+    "kategori": "anggota"
+  },
+  "2": {
+    "nama": "Ben Azaria",
+    "username": "ben135",
+    "kata_sandi": "98765432",
+    "kategori": "anggota"
+  },
+  "3": {
+    "nama": "Kaila Puteri Iskandar",
+    "username": "kaila20",
+    "kata_sandi": "00000000",
+    "kategori": "anggota"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "2": {
+    "1": {
+      "tanggal_pinjam": "2025-05-25",
+      "tanggal_kembali": "2025-05-30"
+    },
+    "5": {
+      "tanggal_pinjam": "2025-05-26",
+      "tanggal_kembali": "2025-06-02"
+    }
+  },
+  "3": {
+    "9": {
+      "tanggal_pinjam": "2025-05-15",
+      "tanggal_kembali": "2025-05-20"
+    }
+  }
+}
